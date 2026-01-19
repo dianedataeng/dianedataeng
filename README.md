@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Diane Kim
 
-<!--
-**dianedataeng/dianedataeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Engineering student at **George Mason University**.  
+I work on **data analysis, machine learning, and data visualization** projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio & Links
+
+- Portfolio website: [Visualizing Insight](https://dianedataeng.github.io/Final/)  
+- GitHub: [github.com/dianedataeng]  
+- LinkedIn: (https://linkedin.com/in/diane-kim1)  
+- Contact: dianekim015@gmail.com
+
+---
+
+## 💻 Skills & Tools
+
+- **Languages:** R, SQL, Python  
+- **Machine Learning:** WEKA, Scikit-learn  
+- **Data Visualization:** ggplot2, Plotly, Tableau  
+- **Other Tools:** Quarto, Git, GitHub
+
+---
+
+## 📊 Projects
+
+- **Emergency Room Utilization:** Admissions, costs, and testing patterns  
+- **Data Visualization Redesigns:** Original visualizations reimagined for clarity  
+- **Machine Learning Projects:** Classification & regression with R and WEKA  
+
+---
+
+## 📫 How to reach me
+
+Feel free to connect on **[LinkedIn](https://linkedin.com/in/diane-kim1)** or email me at **dianekim@email.com**.
