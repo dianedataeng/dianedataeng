@@ -7,9 +7,8 @@ I work on **data analysis, machine learning, and data visualization** projects.
 
 ## 🌐 Portfolio & Links
 
-- Portfolio website: [Visualizing Insight](https://dianedataeng.github.io/Final/)  
-- GitHub: [github.com/dianedataeng]  
-- LinkedIn: (https://linkedin.com/in/diane-kim1)  
+- GitHub: github.com/dianedataeng
+- LinkedIn: https://linkedin.com/in/diane-kim1
 - Contact: dianekim015@gmail.com
 
 ---
@@ -24,8 +23,8 @@ I work on **data analysis, machine learning, and data visualization** projects.
 ---
 
 ## 📊 Projects
-
-- **Emergency Room Utilization:** Admissions, costs, and testing patterns  
+- **Visualizing Insight:** [View Project](https://dianedataeng.github.io/Final/) – Redesigns of real-world visualizations with improved clarity and insights.  
+- https://dianedataeng.github.io/Final/   
 - **Data Visualization Redesigns:** Original visualizations reimagined for clarity  
 - **Machine Learning Projects:** Classification & regression with R and WEKA  
 
