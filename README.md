@@ -5,12 +5,12 @@ I work on **data analysis, machine learning, and data visualization** projects.
 
 ---
 
-## 🌐 Portfolio & Links
-
-- GitHub: github.com/dianedataeng
-- LinkedIn: https://linkedin.com/in/diane-kim1
-- Contact: dianekim015@gmail.com
-
+## 📊 Projects
+- **Visualizing Insight:** Redesigns of real-world visualizations with improved clarity and insights.  
+  [🌐 View Project](https://dianedataeng.github.io/Final/) | [💻 Repository](https://github.com/dianedataeng/Final)
+- **Data Visualization Redesigns:** Original visualizations reimagined for clarity.  
+  [🌐 View Project](https://dianedataeng.github.io/RedesignedVis/) | [💻 Repository](https://github.com/dianedataeng/RedesignedVis)
+- **Machine Learning Projects:** Classification & regression with R and WEKA  
 ---
 
 ## 💻 Skills & Tools
@@ -22,16 +22,12 @@ I work on **data analysis, machine learning, and data visualization** projects.
 
 ---
 
-## 📊 Projects
-- **Visualizing Insight:** Redesigns of real-world visualizations with improved clarity and insights.  
-  [🌐 View Project](https://dianedataeng.github.io/Final/) | [💻 Repository](https://github.com/dianedataeng/Final)
-- **Data Visualization Redesigns:** Original visualizations reimagined for clarity.  
-  [🌐 View Project](https://dianedataeng.github.io/RedesignedVis/) | [💻 Repository](https://github.com/dianedataeng/RedesignedVis)
-- **Machine Learning Projects:** Classification & regression with R and WEKA  
----
+## 📫 Connect with me
 
-## 📫 How to reach me
-
+- GitHub: github.com/dianedataeng
+- LinkedIn: https://linkedin.com/in/diane-kim1
+- Contact: dianekim015@gmail.com
+- 
 Feel free to connect on **[LinkedIn](https://linkedin.com/in/diane-kim1)** or email me at **dianekim@gmail.com**.
 
 
