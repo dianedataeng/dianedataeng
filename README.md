@@ -36,5 +36,5 @@ I am currently an **MS Data Engineering student at George Mason University**, wo
 - GitHub: github.com/dianedataeng
 - LinkedIn: https://linkedin.com/in/diane-kim1
 - Contact: dianekim015@gmail.com
-- 
+  
 Feel free to connect on **[LinkedIn](https://linkedin.com/in/diane-kim1)** or email me at **dianekim@gmail.com**.
