@@ -22,13 +22,14 @@ I am currently an **MS Data Engineering student at George Mason University**.
 - **Machine Learning:** WEKA, Scikit-learn  
 - **Data Visualization:** ggplot2, Plotly, Tableau  
 - **Other Tools:** Quarto, Git, GitHub
-- **Certifications:** IBM Data Science Professional Certificate, December 2022
 
 ---
 # 🎓 Education
 
 - **George Mason University** – Masters in Health Informatics, Candidate 2026  
 - **American University** – Bachelor of Public Health & Economics, Washington, DC, December 2017
+- **Certifications:** IBM Data Science Professional Certificate, December 2022
+
 ---
 
 ## 📫 Connect with me
