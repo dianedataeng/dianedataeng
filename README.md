@@ -24,9 +24,9 @@ I work on **data analysis, machine learning, and data visualization** projects.
 
 ## 📊 Projects
 - **Visualizing Insight:** [View Project](https://dianedataeng.github.io/Final/) – Redesigns of real-world visualizations with improved clarity and insights.  
-- https://dianedataeng.github.io/Final/   
+- [Repository](https://github.com/dianedataeng/Final)
 - **Data Visualization Redesigns:** [View Project](https://dianedataeng.github.io/RedesignedVis/) Original visualizations reimagined for clarity
-- https://dianedataeng.github.io/RedesignedVis/
+- [Repository](https://github.com/dianedataeng/RedesignedVis)
 - **Machine Learning Projects:** Classification & regression with R and WEKA  
 
 ---
