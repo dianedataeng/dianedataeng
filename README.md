@@ -1,7 +1,10 @@
-# Hi 👋, I'm Diane Kim
+# Hello 👋, Welcome to My GitHub
 
-MS Data Engineering student at **George Mason University**.  
-I work on **data analysis, machine learning, and data visualization** projects.
+Feel free to explore my projects!
+
+I am a **Healthcare Data Analyst** with extensive experience in public health research and data analysis. Skilled in **SQL, database management, and health informatics**, I aim to leverage data-driven insights to improve patient care and operational efficiency in the healthcare industry.
+
+I am currently an **MS Data Engineering student at George Mason University**, working on **data analysis, machine learning, and data visualization** projects.
 
 ---
 
@@ -15,11 +18,17 @@ I work on **data analysis, machine learning, and data visualization** projects.
 
 ## 💻 Skills & Tools
 
-- **Languages:** R, SQL, Python  
+- **Languages:** R, SQL, Python, Stata
 - **Machine Learning:** WEKA, Scikit-learn  
 - **Data Visualization:** ggplot2, Plotly, Tableau  
 - **Other Tools:** Quarto, Git, GitHub
+- **Certifications:** IBM Data Science Professional Certificate, December 2022
 
+---
+# 🎓 Education
+
+- **George Mason University** – Masters in Health Informatics, Candidate 2026  
+- **American University** – Bachelor of Public Health & Economics, Washington, DC, December 2017
 ---
 
 ## 📫 Connect with me
@@ -29,6 +38,3 @@ I work on **data analysis, machine learning, and data visualization** projects.
 - Contact: dianekim015@gmail.com
 - 
 Feel free to connect on **[LinkedIn](https://linkedin.com/in/diane-kim1)** or email me at **dianekim@gmail.com**.
-
-
-
