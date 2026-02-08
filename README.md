@@ -9,9 +9,9 @@ I am currently an **MS Data Engineering student at George Mason University**.
 ---
 
 ## 📊 Projects
-- **Visualizing Insight:** Redesigns of real-world visualizations with improved clarity and insights.  
+- **Emergency Room Utilization:** Applied advanced statistical analysis and machine learning to rigorously evaluate predictive models and deliver actionable insights on ER utilization  
   [🌐 View Project](https://dianedataeng.github.io/Final/) | [💻 Repository](https://github.com/dianedataeng/Final)
-- **Data Visualization Redesigns:** Original visualizations reimagined for clarity.  
+- **Data Visualization Redesigns:** Redesigned an original CDC opioid dispensing map into an interactive heat map and stacked bar chart to enhance clarity, comparability, and insight.
   [🌐 View Project](https://dianedataeng.github.io/RedesignedVis/) | [💻 Repository](https://github.com/dianedataeng/RedesignedVis)
 - **Machine Learning Projects:** Classification & regression with R and WEKA  
 ---
