@@ -2,7 +2,7 @@
 
 Feel free to explore my projects!
 
-I am a **Data Scientist** with extensive experience in public health research and data analysis. Skilled in **SQL, database management, and health informatics**, I aim to leverage data-driven insights to improve patient care and operational efficiency in the healthcare industry.
+I am a **Data Scientist** with extensive experience in public health research and data analysis. Skilled in **SQL, Python, STATA, database management, and health informatics**, I aim to leverage data-driven insights to improve patient care and operational efficiency in the healthcare industry.
 
 I am currently an **MS Data Engineering student at George Mason University**.
 
